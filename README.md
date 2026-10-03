@@ -1,16 +1,12 @@
 # Carl Jan Umali — Portfolio
 
-A responsive, client-facing portfolio for Carl Jan Umali, positioned around Executive Assistance, Business Formation, Operations, Client Support, and Technical Support.
+Client-facing portfolio website for Carl Jan Umali, positioned for Executive Assistance, Business Formation, Operations, Client Support, and Technical Support opportunities.
 
 ## Files
-- `index.html` — main portfolio page
-- `style.css` — responsive styling and visual system
-- `script.js` — mobile navigation, scroll reveal, and footer year
-- `assets/carl-hero.jpg` — hero portrait
-- `assets/carl-formal.jpg` — professional portrait
-- `assets/Carl-Jan-Umali-CV.pdf` — CV linked from the site
+- `index.html` — website structure and content
+- `style.css` — visual styling and responsive layout
+- `script.js` — mobile navigation and reveal animations
+- `assets/` — Carl's professional photos and CV
 
-## Publish
-This is a static website and can be hosted on GitHub Pages, Netlify, Vercel, or any standard static web host.
-
-For GitHub Pages, upload the contents of this folder to a repository and enable Pages from the repository settings.
+## GitHub Pages
+Upload the contents of this folder to the root of the `main` branch and set GitHub Pages to **Deploy from a branch → main → /(root)**.
